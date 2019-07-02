@@ -1,0 +1,25 @@
+body{
+    background-color: beige;;
+}
+#canvas{
+    display: block;
+}
+
+#startBtn{
+    border: 5px solid green;
+    font-size: 40px;
+    position: absolute;
+    left: 20%;
+    top: 70%;
+    width: 230px;
+}
+
+#restartBtn{
+    display: none;
+    border: 5px solid red;
+    font-size: 40px;
+    position: absolute;
+    left: 20%;
+    top: 70%;
+    width: 230px;
+}
